@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TechGig")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ee059dedd0b5e2986224417fd911c17ecec98eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("TechGig")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TechGig")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

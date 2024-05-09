@@ -1,0 +1,10 @@
+C:\Users\V935962\source\repos\TaskManager\TaskDb\bin\Debug\TaskDb.dacpac
+C:\Users\V935962\source\repos\TaskManager\TaskDb\bin\Debug\TaskDb.dll
+C:\Users\V935962\source\repos\TaskManager\TaskDb\bin\Debug\TaskDb.pdb
+C:\Users\V935962\source\repos\TaskManager\TaskDb\obj\Debug\TaskDb.sqlproj.AssemblyReference.cache
+C:\Users\V935962\source\repos\TaskManager\TaskDb\obj\Debug\TaskDb.dll
+C:\Users\V935962\source\repos\TaskManager\TaskDb\obj\Debug\TaskDb.pdb
+C:\Users\V935962\source\repos\TaskManager\TaskDb\obj\Debug\Model.xml
+C:\Users\V935962\source\repos\TaskManager\TaskDb\obj\Debug\refactor.xml
+C:\Users\V935962\source\repos\TaskManager\TaskDb\obj\Debug\postdeploy.sql
+C:\Users\V935962\source\repos\TaskManager\TaskDb\obj\Debug\predeploy.sql

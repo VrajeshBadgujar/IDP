@@ -1,0 +1,88 @@
+6/18/2023 10:48:17 PM	This log contains information about the import schema operation into project 'SQLfromExisting' on computer 'V935962-W10' by user 'V935962'.
+6/18/2023 10:48:17 PM	Import of database schema has started.
+6/18/2023 10:48:28 PM	Gathering database credentials
+6/18/2023 10:48:28 PM	Gathering database options
+6/18/2023 10:48:28 PM	Gathering generic database scoped configuration option
+6/18/2023 10:48:28 PM	Gathering users
+6/18/2023 10:48:28 PM	Gathering roles
+6/18/2023 10:48:28 PM	Gathering application roles
+6/18/2023 10:48:28 PM	Gathering role memberships
+6/18/2023 10:48:28 PM	Gathering filegroups
+6/18/2023 10:48:28 PM	Gathering full-text catalogs
+6/18/2023 10:48:28 PM	Gathering assemblies
+6/18/2023 10:48:28 PM	Gathering certificates
+6/18/2023 10:48:28 PM	Gathering asymmetric keys
+6/18/2023 10:48:28 PM	Gathering symmetric keys
+6/18/2023 10:48:28 PM	Gathering encrypted symmetric keys
+6/18/2023 10:48:28 PM	Gathering schemas
+6/18/2023 10:48:28 PM	Gathering XML schema collections
+6/18/2023 10:48:28 PM	Gathering user-defined data types
+6/18/2023 10:48:28 PM	Gathering user-defined types
+6/18/2023 10:48:28 PM	Gathering table types
+6/18/2023 10:48:28 PM	Gathering unique keys for table types
+6/18/2023 10:48:28 PM	Gathering primary keys for table types
+6/18/2023 10:48:28 PM	Gathering indexes for table types
+6/18/2023 10:48:28 PM	Gathering check constraints for table types
+6/18/2023 10:48:28 PM	Gathering default constraints for table types
+6/18/2023 10:48:28 PM	Gathering partition functions
+6/18/2023 10:48:28 PM	Gathering partition schemes
+6/18/2023 10:48:28 PM	Gathering functions
+6/18/2023 10:48:28 PM	Gathering encrypted functions
+6/18/2023 10:48:28 PM	Gathering aggregates
+6/18/2023 10:48:28 PM	Gathering procedures
+6/18/2023 10:48:28 PM	Gathering encrypted procedures
+6/18/2023 10:48:28 PM	Gathering tables
+6/18/2023 10:48:28 PM	Gathering primary keys
+6/18/2023 10:48:28 PM	Gathering unique constraints
+6/18/2023 10:48:28 PM	Gathering foreign keys
+6/18/2023 10:48:28 PM	Gathering default constraints
+6/18/2023 10:48:28 PM	Gathering check constraints
+6/18/2023 10:48:28 PM	Gathering views
+6/18/2023 10:48:28 PM	Gathering encrypted views
+6/18/2023 10:48:28 PM	Gathering indexes
+6/18/2023 10:48:28 PM	Gathering statistics
+6/18/2023 10:48:28 PM	Gathering full-text index stoplists
+6/18/2023 10:48:28 PM	Gathering search property lists
+6/18/2023 10:48:28 PM	Gathering search properties
+6/18/2023 10:48:28 PM	Gathering full-text indexes
+6/18/2023 10:48:28 PM	Gathering column store indexes
+6/18/2023 10:48:28 PM	Gathering spatial indexes
+6/18/2023 10:48:28 PM	Gathering XML indexes
+6/18/2023 10:48:28 PM	Gathering Selective XML indexes
+6/18/2023 10:48:28 PM	Gathering encrypted triggers
+6/18/2023 10:48:28 PM	Gathering triggers
+6/18/2023 10:48:28 PM	Gathering encrypted and clr ddl triggers
+6/18/2023 10:48:28 PM	Gathering ddl triggers
+6/18/2023 10:48:28 PM	Creating edge constraints
+6/18/2023 10:48:28 PM	Gathering synonyms
+6/18/2023 10:48:28 PM	Gathering defaults
+6/18/2023 10:48:28 PM	Gathering data constraint uddt bindings
+6/18/2023 10:48:28 PM	Gathering rules
+6/18/2023 10:48:28 PM	Gathering data constraint uddt bindings
+6/18/2023 10:48:28 PM	Gathering message types
+6/18/2023 10:48:28 PM	Gathering queues
+6/18/2023 10:48:28 PM	Gathering contracts
+6/18/2023 10:48:28 PM	Gathering services
+6/18/2023 10:48:28 PM	Gathering event notifications
+6/18/2023 10:48:28 PM	Gathering remote service bindings
+6/18/2023 10:48:28 PM	Gathering broker priorities
+6/18/2023 10:48:29 PM	Gathering signatures
+6/18/2023 10:48:29 PM	Gathering compression options
+6/18/2023 10:48:29 PM	Gathering sequence types
+6/18/2023 10:48:29 PM	Gathering security policies
+6/18/2023 10:48:29 PM	Gather column encryption keys
+6/18/2023 10:48:29 PM	Gathering column master keys
+6/18/2023 10:48:29 PM	Gathering external data sources
+6/18/2023 10:48:29 PM	Gathering external file formats
+6/18/2023 10:48:29 PM	Gathering external tables
+6/18/2023 10:48:29 PM	Gathering XML index compression options
+6/18/2023 10:48:29 PM	Gathering extended properties
+6/18/2023 10:48:29 PM	Gathering assemblies
+6/18/2023 10:48:29 PM	Gathering credentials
+6/18/2023 10:48:29 PM	Gathering logins
+6/18/2023 10:48:29 PM	Gathering server audits
+6/18/2023 10:48:29 PM	Scanning project for duplicate elements
+6/18/2023 10:48:29 PM	Finished duplicate element processing
+6/18/2023 10:48:29 PM	Finished importing database.
+6/18/2023 10:48:29 PM	A summary of the import was saved to the following location: C:\Users\V935962\source\repos\SQLDatabaseProject\SQLfromExisting\Import Schema Logs\SQLfromExisting_20230618051817.log
+6/18/2023 10:48:29 PM	Click Finish to continue...

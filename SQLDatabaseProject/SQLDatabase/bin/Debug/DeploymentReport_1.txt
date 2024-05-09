@@ -1,0 +1,22 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       [dbo].[Address]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Recreate table
+       [dbo].[Address] (Table)
+     Create
+       [dbo].[FullPerson] (View)
+       [dbo].[spPerson_FilterByLastName] (Procedure)
+
+** Supporting actions
+     Drop
+       [dbo].[FK_Address_Person ] (Foreign Key)
+     Create
+       [dbo].[FK_Address_Person ] (Foreign Key)

@@ -1,0 +1,14 @@
+C:\Users\V935962\source\repos\DI bank account\DI bank account\bin\Debug\net8.0\DI bank account.exe
+C:\Users\V935962\source\repos\DI bank account\DI bank account\bin\Debug\net8.0\DI bank account.deps.json
+C:\Users\V935962\source\repos\DI bank account\DI bank account\bin\Debug\net8.0\DI bank account.runtimeconfig.json
+C:\Users\V935962\source\repos\DI bank account\DI bank account\bin\Debug\net8.0\DI bank account.dll
+C:\Users\V935962\source\repos\DI bank account\DI bank account\bin\Debug\net8.0\DI bank account.pdb
+C:\Users\V935962\source\repos\DI bank account\DI bank account\obj\Debug\net8.0\DI bank account.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V935962\source\repos\DI bank account\DI bank account\obj\Debug\net8.0\DI bank account.AssemblyInfoInputs.cache
+C:\Users\V935962\source\repos\DI bank account\DI bank account\obj\Debug\net8.0\DI bank account.AssemblyInfo.cs
+C:\Users\V935962\source\repos\DI bank account\DI bank account\obj\Debug\net8.0\DI bank account.csproj.CoreCompileInputs.cache
+C:\Users\V935962\source\repos\DI bank account\DI bank account\obj\Debug\net8.0\DI bank account.dll
+C:\Users\V935962\source\repos\DI bank account\DI bank account\obj\Debug\net8.0\refint\DI bank account.dll
+C:\Users\V935962\source\repos\DI bank account\DI bank account\obj\Debug\net8.0\DI bank account.pdb
+C:\Users\V935962\source\repos\DI bank account\DI bank account\obj\Debug\net8.0\DI bank account.genruntimeconfig.cache
+C:\Users\V935962\source\repos\DI bank account\DI bank account\obj\Debug\net8.0\ref\DI bank account.dll

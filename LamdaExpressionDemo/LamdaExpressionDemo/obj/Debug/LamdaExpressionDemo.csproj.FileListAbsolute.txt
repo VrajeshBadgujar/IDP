@@ -1,0 +1,8 @@
+C:\Users\V935962\source\repos\LamdaExpressionDemo\LamdaExpressionDemo\obj\Debug\LamdaExpressionDemo.csproj.AssemblyReference.cache
+C:\Users\V935962\source\repos\LamdaExpressionDemo\LamdaExpressionDemo\obj\Debug\LamdaExpressionDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\V935962\source\repos\LamdaExpressionDemo\LamdaExpressionDemo\obj\Debug\LamdaExpressionDemo.csproj.CoreCompileInputs.cache
+C:\Users\V935962\source\repos\LamdaExpressionDemo\LamdaExpressionDemo\bin\Debug\LamdaExpressionDemo.exe.config
+C:\Users\V935962\source\repos\LamdaExpressionDemo\LamdaExpressionDemo\bin\Debug\LamdaExpressionDemo.exe
+C:\Users\V935962\source\repos\LamdaExpressionDemo\LamdaExpressionDemo\bin\Debug\LamdaExpressionDemo.pdb
+C:\Users\V935962\source\repos\LamdaExpressionDemo\LamdaExpressionDemo\obj\Debug\LamdaExpressionDemo.exe
+C:\Users\V935962\source\repos\LamdaExpressionDemo\LamdaExpressionDemo\obj\Debug\LamdaExpressionDemo.pdb

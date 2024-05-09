@@ -1,0 +1,14 @@
+C:\Users\V935962\source\repos\TechGig\TechGig\bin\Debug\net8.0\TechGig.exe
+C:\Users\V935962\source\repos\TechGig\TechGig\bin\Debug\net8.0\TechGig.deps.json
+C:\Users\V935962\source\repos\TechGig\TechGig\bin\Debug\net8.0\TechGig.runtimeconfig.json
+C:\Users\V935962\source\repos\TechGig\TechGig\bin\Debug\net8.0\TechGig.dll
+C:\Users\V935962\source\repos\TechGig\TechGig\bin\Debug\net8.0\TechGig.pdb
+C:\Users\V935962\source\repos\TechGig\TechGig\obj\Debug\net8.0\TechGig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V935962\source\repos\TechGig\TechGig\obj\Debug\net8.0\TechGig.AssemblyInfoInputs.cache
+C:\Users\V935962\source\repos\TechGig\TechGig\obj\Debug\net8.0\TechGig.AssemblyInfo.cs
+C:\Users\V935962\source\repos\TechGig\TechGig\obj\Debug\net8.0\TechGig.csproj.CoreCompileInputs.cache
+C:\Users\V935962\source\repos\TechGig\TechGig\obj\Debug\net8.0\TechGig.dll
+C:\Users\V935962\source\repos\TechGig\TechGig\obj\Debug\net8.0\refint\TechGig.dll
+C:\Users\V935962\source\repos\TechGig\TechGig\obj\Debug\net8.0\TechGig.pdb
+C:\Users\V935962\source\repos\TechGig\TechGig\obj\Debug\net8.0\TechGig.genruntimeconfig.cache
+C:\Users\V935962\source\repos\TechGig\TechGig\obj\Debug\net8.0\ref\TechGig.dll

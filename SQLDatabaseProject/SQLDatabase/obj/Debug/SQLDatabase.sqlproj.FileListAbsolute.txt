@@ -1,0 +1,10 @@
+C:\Users\V935962\source\repos\SQLDatabaseProject\SQLDatabase\bin\Debug\SQLDatabase.dacpac
+C:\Users\V935962\source\repos\SQLDatabaseProject\SQLDatabase\bin\Debug\SQLDatabase.dll
+C:\Users\V935962\source\repos\SQLDatabaseProject\SQLDatabase\bin\Debug\SQLDatabase.pdb
+C:\Users\V935962\source\repos\SQLDatabaseProject\SQLDatabase\obj\Debug\SQLDatabase.sqlproj.AssemblyReference.cache
+C:\Users\V935962\source\repos\SQLDatabaseProject\SQLDatabase\obj\Debug\Model.xml
+C:\Users\V935962\source\repos\SQLDatabaseProject\SQLDatabase\obj\Debug\refactor.xml
+C:\Users\V935962\source\repos\SQLDatabaseProject\SQLDatabase\obj\Debug\postdeploy.sql
+C:\Users\V935962\source\repos\SQLDatabaseProject\SQLDatabase\obj\Debug\predeploy.sql
+C:\Users\V935962\source\repos\SQLDatabaseProject\SQLDatabase\obj\Debug\SQLDatabase.dll
+C:\Users\V935962\source\repos\SQLDatabaseProject\SQLDatabase\obj\Debug\SQLDatabase.pdb

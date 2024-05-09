@@ -1,0 +1,14 @@
+C:\Users\V935962\source\repos\OptimizingCompetition\OptimizingCompetition\bin\Debug\net8.0\OptimizingCompetition.exe
+C:\Users\V935962\source\repos\OptimizingCompetition\OptimizingCompetition\bin\Debug\net8.0\OptimizingCompetition.deps.json
+C:\Users\V935962\source\repos\OptimizingCompetition\OptimizingCompetition\bin\Debug\net8.0\OptimizingCompetition.runtimeconfig.json
+C:\Users\V935962\source\repos\OptimizingCompetition\OptimizingCompetition\bin\Debug\net8.0\OptimizingCompetition.dll
+C:\Users\V935962\source\repos\OptimizingCompetition\OptimizingCompetition\bin\Debug\net8.0\OptimizingCompetition.pdb
+C:\Users\V935962\source\repos\OptimizingCompetition\OptimizingCompetition\obj\Debug\net8.0\OptimizingCompetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V935962\source\repos\OptimizingCompetition\OptimizingCompetition\obj\Debug\net8.0\OptimizingCompetition.AssemblyInfoInputs.cache
+C:\Users\V935962\source\repos\OptimizingCompetition\OptimizingCompetition\obj\Debug\net8.0\OptimizingCompetition.AssemblyInfo.cs
+C:\Users\V935962\source\repos\OptimizingCompetition\OptimizingCompetition\obj\Debug\net8.0\OptimizingCompetition.csproj.CoreCompileInputs.cache
+C:\Users\V935962\source\repos\OptimizingCompetition\OptimizingCompetition\obj\Debug\net8.0\OptimizingCompetition.dll
+C:\Users\V935962\source\repos\OptimizingCompetition\OptimizingCompetition\obj\Debug\net8.0\refint\OptimizingCompetition.dll
+C:\Users\V935962\source\repos\OptimizingCompetition\OptimizingCompetition\obj\Debug\net8.0\OptimizingCompetition.pdb
+C:\Users\V935962\source\repos\OptimizingCompetition\OptimizingCompetition\obj\Debug\net8.0\OptimizingCompetition.genruntimeconfig.cache
+C:\Users\V935962\source\repos\OptimizingCompetition\OptimizingCompetition\obj\Debug\net8.0\ref\OptimizingCompetition.dll

@@ -1,0 +1,15 @@
+C:\Users\V935962\source\repos\ThreadingEvent\bin\Debug\net8.0\ThreadingEvent.exe
+C:\Users\V935962\source\repos\ThreadingEvent\bin\Debug\net8.0\ThreadingEvent.deps.json
+C:\Users\V935962\source\repos\ThreadingEvent\bin\Debug\net8.0\ThreadingEvent.runtimeconfig.json
+C:\Users\V935962\source\repos\ThreadingEvent\bin\Debug\net8.0\ThreadingEvent.dll
+C:\Users\V935962\source\repos\ThreadingEvent\bin\Debug\net8.0\ThreadingEvent.pdb
+C:\Users\V935962\source\repos\ThreadingEvent\obj\Debug\net8.0\ThreadingEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V935962\source\repos\ThreadingEvent\obj\Debug\net8.0\ThreadingEvent.AssemblyInfoInputs.cache
+C:\Users\V935962\source\repos\ThreadingEvent\obj\Debug\net8.0\ThreadingEvent.AssemblyInfo.cs
+C:\Users\V935962\source\repos\ThreadingEvent\obj\Debug\net8.0\ThreadingEvent.csproj.CoreCompileInputs.cache
+C:\Users\V935962\source\repos\ThreadingEvent\obj\Debug\net8.0\ThreadingEvent.sourcelink.json
+C:\Users\V935962\source\repos\ThreadingEvent\obj\Debug\net8.0\ThreadingEvent.dll
+C:\Users\V935962\source\repos\ThreadingEvent\obj\Debug\net8.0\refint\ThreadingEvent.dll
+C:\Users\V935962\source\repos\ThreadingEvent\obj\Debug\net8.0\ThreadingEvent.pdb
+C:\Users\V935962\source\repos\ThreadingEvent\obj\Debug\net8.0\ThreadingEvent.genruntimeconfig.cache
+C:\Users\V935962\source\repos\ThreadingEvent\obj\Debug\net8.0\ref\ThreadingEvent.dll

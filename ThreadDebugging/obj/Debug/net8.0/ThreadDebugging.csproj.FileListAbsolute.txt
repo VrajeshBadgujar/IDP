@@ -1,0 +1,15 @@
+C:\Users\V935962\source\repos\ThreadDebugging\bin\Debug\net8.0\ThreadDebugging.exe
+C:\Users\V935962\source\repos\ThreadDebugging\bin\Debug\net8.0\ThreadDebugging.deps.json
+C:\Users\V935962\source\repos\ThreadDebugging\bin\Debug\net8.0\ThreadDebugging.runtimeconfig.json
+C:\Users\V935962\source\repos\ThreadDebugging\bin\Debug\net8.0\ThreadDebugging.dll
+C:\Users\V935962\source\repos\ThreadDebugging\bin\Debug\net8.0\ThreadDebugging.pdb
+C:\Users\V935962\source\repos\ThreadDebugging\obj\Debug\net8.0\ThreadDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V935962\source\repos\ThreadDebugging\obj\Debug\net8.0\ThreadDebugging.AssemblyInfoInputs.cache
+C:\Users\V935962\source\repos\ThreadDebugging\obj\Debug\net8.0\ThreadDebugging.AssemblyInfo.cs
+C:\Users\V935962\source\repos\ThreadDebugging\obj\Debug\net8.0\ThreadDebugging.csproj.CoreCompileInputs.cache
+C:\Users\V935962\source\repos\ThreadDebugging\obj\Debug\net8.0\ThreadDebugging.sourcelink.json
+C:\Users\V935962\source\repos\ThreadDebugging\obj\Debug\net8.0\ThreadDebugging.dll
+C:\Users\V935962\source\repos\ThreadDebugging\obj\Debug\net8.0\refint\ThreadDebugging.dll
+C:\Users\V935962\source\repos\ThreadDebugging\obj\Debug\net8.0\ThreadDebugging.pdb
+C:\Users\V935962\source\repos\ThreadDebugging\obj\Debug\net8.0\ThreadDebugging.genruntimeconfig.cache
+C:\Users\V935962\source\repos\ThreadDebugging\obj\Debug\net8.0\ref\ThreadDebugging.dll

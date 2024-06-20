@@ -1,0 +1,15 @@
+C:\Users\V935962\source\repos\ThreadSyncronization\bin\Debug\net8.0\ThreadSyncronization.exe
+C:\Users\V935962\source\repos\ThreadSyncronization\bin\Debug\net8.0\ThreadSyncronization.deps.json
+C:\Users\V935962\source\repos\ThreadSyncronization\bin\Debug\net8.0\ThreadSyncronization.runtimeconfig.json
+C:\Users\V935962\source\repos\ThreadSyncronization\bin\Debug\net8.0\ThreadSyncronization.dll
+C:\Users\V935962\source\repos\ThreadSyncronization\bin\Debug\net8.0\ThreadSyncronization.pdb
+C:\Users\V935962\source\repos\ThreadSyncronization\obj\Debug\net8.0\ThreadSyncronization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V935962\source\repos\ThreadSyncronization\obj\Debug\net8.0\ThreadSyncronization.AssemblyInfoInputs.cache
+C:\Users\V935962\source\repos\ThreadSyncronization\obj\Debug\net8.0\ThreadSyncronization.AssemblyInfo.cs
+C:\Users\V935962\source\repos\ThreadSyncronization\obj\Debug\net8.0\ThreadSyncronization.csproj.CoreCompileInputs.cache
+C:\Users\V935962\source\repos\ThreadSyncronization\obj\Debug\net8.0\ThreadSyncronization.sourcelink.json
+C:\Users\V935962\source\repos\ThreadSyncronization\obj\Debug\net8.0\ThreadSyncronization.dll
+C:\Users\V935962\source\repos\ThreadSyncronization\obj\Debug\net8.0\refint\ThreadSyncronization.dll
+C:\Users\V935962\source\repos\ThreadSyncronization\obj\Debug\net8.0\ThreadSyncronization.pdb
+C:\Users\V935962\source\repos\ThreadSyncronization\obj\Debug\net8.0\ThreadSyncronization.genruntimeconfig.cache
+C:\Users\V935962\source\repos\ThreadSyncronization\obj\Debug\net8.0\ref\ThreadSyncronization.dll

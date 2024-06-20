@@ -1,0 +1,15 @@
+C:\Users\V935962\source\repos\ThreadingParallel\bin\Debug\net8.0\ThreadingParallel.exe
+C:\Users\V935962\source\repos\ThreadingParallel\bin\Debug\net8.0\ThreadingParallel.deps.json
+C:\Users\V935962\source\repos\ThreadingParallel\bin\Debug\net8.0\ThreadingParallel.runtimeconfig.json
+C:\Users\V935962\source\repos\ThreadingParallel\bin\Debug\net8.0\ThreadingParallel.dll
+C:\Users\V935962\source\repos\ThreadingParallel\bin\Debug\net8.0\ThreadingParallel.pdb
+C:\Users\V935962\source\repos\ThreadingParallel\obj\Debug\net8.0\ThreadingParallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V935962\source\repos\ThreadingParallel\obj\Debug\net8.0\ThreadingParallel.AssemblyInfoInputs.cache
+C:\Users\V935962\source\repos\ThreadingParallel\obj\Debug\net8.0\ThreadingParallel.AssemblyInfo.cs
+C:\Users\V935962\source\repos\ThreadingParallel\obj\Debug\net8.0\ThreadingParallel.csproj.CoreCompileInputs.cache
+C:\Users\V935962\source\repos\ThreadingParallel\obj\Debug\net8.0\ThreadingParallel.sourcelink.json
+C:\Users\V935962\source\repos\ThreadingParallel\obj\Debug\net8.0\ThreadingParallel.dll
+C:\Users\V935962\source\repos\ThreadingParallel\obj\Debug\net8.0\refint\ThreadingParallel.dll
+C:\Users\V935962\source\repos\ThreadingParallel\obj\Debug\net8.0\ThreadingParallel.pdb
+C:\Users\V935962\source\repos\ThreadingParallel\obj\Debug\net8.0\ThreadingParallel.genruntimeconfig.cache
+C:\Users\V935962\source\repos\ThreadingParallel\obj\Debug\net8.0\ref\ThreadingParallel.dll
